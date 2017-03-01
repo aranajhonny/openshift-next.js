@@ -1,6 +1,6 @@
 {
   "name": "openshift-next.js",
-  "description": "",
+  "description": "Next.js for openshift",
   "dependencies": {
     "next": "2.0.0-beta.24"
   },
