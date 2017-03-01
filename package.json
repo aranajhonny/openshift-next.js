@@ -1,0 +1,13 @@
+{
+  "name": "openshift-next.js",
+  "description": "",
+  "dependencies": {
+    "next": "2.0.0-beta.24"
+  },
+  "scripts": {
+    "postinstall": "next build",
+    "dev": "next",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  }
+}
